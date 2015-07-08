@@ -1,0 +1,26 @@
+{
+  "name": "node_scraper",
+  "version": "1.0.0",
+  "description": "scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinbeechey/node_scraper.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robinbeechey/node_scraper/issues"
+  },
+  "homepage": "https://github.com/robinbeechey/node_scraper#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "request": "^2.58.0"
+  }
+}
